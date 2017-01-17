@@ -1,0 +1,2 @@
+FROM prima/filebeat
+ADD . /
